@@ -100,7 +100,7 @@ Food-Delivery-Operations-Analysis/
 │
 ├── power_bi/
 │   ├── food_delivery_dashboard.pbix
-│       ├── dashboard_overview.png
+│   ├── dashboard_overview.png
 │
 ├── report/
 │   └── Food_Delivery_Operations_Performance_Report.pdf
