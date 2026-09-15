@@ -354,7 +354,7 @@ Aggregations
 SQL queries are available in:
 
 ```text
-sql/food_delivery_analysis.sql
+sql/food_delivery.sql
 ```
 
 ---
@@ -385,13 +385,8 @@ The Power BI dashboard converts the analysis into an interactive management-styl
 
 ## 📷 Power BI Dashboard — Overview
 
-![Power BI Dashboard Overview](power_bi/screenshots/dashboard_overview.png)
+![Power BI Dashboard Overview](power_bi/dashboard_overview.png)
 
----
-
-## 📷 Power BI Dashboard — Analysis
-
-![Power BI Dashboard Analysis](power_bi/screenshots/dashboard_analysis.png)
 
 ---
 
@@ -576,8 +571,7 @@ Continue monitoring missing and unknown categorical values to ensure operational
 | `python/`               | Data cleaning and EDA Python scripts  |
 | `python/screenshots/`   | EDA visualization screenshots         |
 | `sql/`                  | SQL business-analysis queries         |
-| `power_bi/`             | Power BI dashboard file               |
-| `power_bi/screenshots/` | Power BI dashboard screenshots        |
+| `power_bi/`             | Power BI dashboard file and screenshot|
 | `report/`               | Detailed project report               |
 
 ---
@@ -614,13 +608,13 @@ The goal was not only to create charts and dashboards, but to use data to identi
 
 ---
 
-## ⭐ Portfolio Project
+## 👤 Author & Contact
 
-**Project Type:** Data Analyst Portfolio Project
-**Domain:** Food Delivery & Operations
-**Dataset Size:** 45,584 Orders
-**Unique Delivery Persons:** 1,320
-**Tools:** Python • SQL/MySQL • Power BI
-**Primary Focus:** Delivery Operations & Performance Analysis
+**Himanshu Kumar**
+📧 **[shk23223@gamil.com](mailto:shk23223@gamil.com)**
+
+Aspiring Data Analyst
+
+**Skills:** SQL • Python • Excel • Power BI
 
 
